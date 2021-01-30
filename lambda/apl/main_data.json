@@ -1,0 +1,11 @@
+{
+    "data": {
+        "type": "object",
+        "objectId": "imageSample",
+        "properties": {
+            
+            "title": "%TITLE%",
+            "subtitle":"%SUBTITLE%"
+        }
+    }
+}
